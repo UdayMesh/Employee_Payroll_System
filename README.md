@@ -11,6 +11,7 @@ This is a simple Java program that shows how a payroll system works using **OOP 
 
 ## Example
 Initial Employee Details:
+
 Employee [name=John Doe, id=101, salary=5000.0]
 
 Employee [name=Jane Smith, id=102, salary=450.0]
